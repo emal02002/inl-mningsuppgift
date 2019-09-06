@@ -6,8 +6,10 @@ namespace Inlämningsuppgift_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ");
-            Console.WriteLine("Hej");
+            Console.WriteLine("Skriv ett tal mellan 1 och 100 ");
+            int tal = int.Parse(Console.ReadLine());
+
+            
 
 
         }
