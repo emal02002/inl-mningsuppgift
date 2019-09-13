@@ -1,0 +1,9 @@
+Skriv ett tal mellan 1 och 100
+Mata in talet 
+Om talet är mindre än slumptalet
+  Skriv "skriv ett högre tal"
+eller om talet är högre än slumptalet
+  Skriv "ett lägre tal"
+annars 
+  skriv "talet är rätt"
+Skriv då antal gissningar som användaren har gjort för att kommit på rätt svar
